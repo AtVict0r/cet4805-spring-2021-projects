@@ -1,0 +1,36 @@
+|binary_ripple_counter_4bit
+Q[0] <= T_Flip_Flop:inst.Q
+Q[1] <= T_Flip_Flop:inst1.Q
+Q[2] <= T_Flip_Flop:inst2.Q
+Q[3] <= T_Flip_Flop:inst3.Q
+clock => T_Flip_Flop:inst.clock
+T => T_Flip_Flop:inst.T
+T => T_Flip_Flop:inst1.T
+T => T_Flip_Flop:inst2.T
+T => T_Flip_Flop:inst3.T
+
+
+|binary_ripple_counter_4bit|T_Flip_Flop:inst
+clock => Q~reg0.CLK
+T => Q~reg0.ENA
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|binary_ripple_counter_4bit|T_Flip_Flop:inst1
+clock => Q~reg0.CLK
+T => Q~reg0.ENA
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|binary_ripple_counter_4bit|T_Flip_Flop:inst2
+clock => Q~reg0.CLK
+T => Q~reg0.ENA
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|binary_ripple_counter_4bit|T_Flip_Flop:inst3
+clock => Q~reg0.CLK
+T => Q~reg0.ENA
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

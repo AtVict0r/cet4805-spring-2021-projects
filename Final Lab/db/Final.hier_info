@@ -1,0 +1,44 @@
+|ram_4bit
+clk => data.we_a.CLK
+clk => data.waddr_a[2].CLK
+clk => data.waddr_a[1].CLK
+clk => data.waddr_a[0].CLK
+clk => data.data_a[3].CLK
+clk => data.data_a[2].CLK
+clk => data.data_a[1].CLK
+clk => data.data_a[0].CLK
+clk => out[0]~reg0.CLK
+clk => out[1]~reg0.CLK
+clk => out[2]~reg0.CLK
+clk => out[3]~reg0.CLK
+clk => data.CLK0
+en => data.we_a.DATAIN
+en => out[0]~reg0.ENA
+en => out[1]~reg0.ENA
+en => out[2]~reg0.ENA
+en => out[3]~reg0.ENA
+en => data.WE
+addr[0] => data.waddr_a[0].DATAIN
+addr[0] => data.WADDR
+addr[0] => data.RADDR
+addr[1] => data.waddr_a[1].DATAIN
+addr[1] => data.WADDR1
+addr[1] => data.RADDR1
+addr[2] => data.waddr_a[2].DATAIN
+addr[2] => data.WADDR2
+addr[2] => data.RADDR2
+addr[3] => ~NO_FANOUT~
+in[0] => data.data_a[0].DATAIN
+in[0] => data.DATAIN
+in[1] => data.data_a[1].DATAIN
+in[1] => data.DATAIN1
+in[2] => data.data_a[2].DATAIN
+in[2] => data.DATAIN2
+in[3] => data.data_a[3].DATAIN
+in[3] => data.DATAIN3
+out[0] << out[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out[1] << out[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out[2] << out[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out[3] << out[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

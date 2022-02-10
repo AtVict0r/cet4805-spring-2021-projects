@@ -1,0 +1,55 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/vatol/Dropbox (City Tech)/Repo/Max 10/CET 4805/Spring 2021/Lab 3/simulation/modelsim
+vhard_block
+Z1 !s110 1635787157
+!i10b 1
+!s100 LPRmdXg>KT>WG`L2K9zL51
+IlIL0MMbECZUIjln9PBIQ72
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1635787149
+Z4 8Lab3.vo
+Z5 FLab3.vo
+L0 501
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1635787157.000000
+Z8 !s107 Lab3.vo|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|Lab3.vo|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work +incdir+.
+Z12 tCvgOpt 0
+vMUX4to1_Seg7Dec_Beha
+R1
+!i10b 1
+!s100 34O3^l^La]Cl:4WhzV[]=0
+IM7mYU9kk9JYE4^7>RJLlb2
+R2
+R0
+R3
+R4
+R5
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@m@u@x4to1_@seg7@dec_@beha

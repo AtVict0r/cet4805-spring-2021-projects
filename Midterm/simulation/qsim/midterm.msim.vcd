@@ -1,0 +1,665 @@
+$comment
+	File created using the following command:
+		vcd file midterm.msim.vcd -direction
+$end
+$date
+	Tue Mar 23 22:40:44 2021
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module ALU8_Beha_vlg_vec_tst $end
+$var reg 3 ! A [2:0] $end
+$var reg 3 " B [2:0] $end
+$var reg 3 # S [2:0] $end
+$var wire 1 $ OUT [3] $end
+$var wire 1 % OUT [2] $end
+$var wire 1 & OUT [1] $end
+$var wire 1 ' OUT [0] $end
+$var wire 1 ( SEL [2] $end
+$var wire 1 ) SEL [1] $end
+$var wire 1 * SEL [0] $end
+
+$scope module i1 $end
+$var wire 1 + gnd $end
+$var wire 1 , vcc $end
+$var wire 1 - unknown $end
+$var tri1 1 . devclrn $end
+$var tri1 1 / devpor $end
+$var tri1 1 0 devoe $end
+$var wire 1 1 ~QUARTUS_CREATED_GND~I_combout $end
+$var wire 1 2 ~QUARTUS_CREATED_UNVM~~busy $end
+$var wire 1 3 ~QUARTUS_CREATED_ADC1~~eoc $end
+$var wire 1 4 ~QUARTUS_CREATED_ADC2~~eoc $end
+$var wire 1 5 SEL[0]~output_o $end
+$var wire 1 6 SEL[1]~output_o $end
+$var wire 1 7 SEL[2]~output_o $end
+$var wire 1 8 OUT[0]~output_o $end
+$var wire 1 9 OUT[1]~output_o $end
+$var wire 1 : OUT[2]~output_o $end
+$var wire 1 ; OUT[3]~output_o $end
+$var wire 1 < S[0]~input_o $end
+$var wire 1 = S[1]~input_o $end
+$var wire 1 > S[2]~input_o $end
+$var wire 1 ? B[0]~input_o $end
+$var wire 1 @ A[0]~input_o $end
+$var wire 1 A Add1~0_combout $end
+$var wire 1 B Mux3~1_combout $end
+$var wire 1 C Mux3~2_combout $end
+$var wire 1 D Mux3~0_combout $end
+$var wire 1 E Mux3~3_combout $end
+$var wire 1 F A[1]~input_o $end
+$var wire 1 G B[1]~input_o $end
+$var wire 1 H Add1~1 $end
+$var wire 1 I Add1~2_combout $end
+$var wire 1 J Add0~0_combout $end
+$var wire 1 K Mux2~2_combout $end
+$var wire 1 L Mux2~3_combout $end
+$var wire 1 M Mux2~0_combout $end
+$var wire 1 N Mux2~1_combout $end
+$var wire 1 O A[2]~input_o $end
+$var wire 1 P B[2]~input_o $end
+$var wire 1 Q Mux1~1_combout $end
+$var wire 1 R Mux1~3_combout $end
+$var wire 1 S Add0~1_combout $end
+$var wire 1 T Add1~3 $end
+$var wire 1 U Add1~4_combout $end
+$var wire 1 V Mux1~4_combout $end
+$var wire 1 W Mux1~0_combout $end
+$var wire 1 X Mux1~2_combout $end
+$var wire 1 Y Add1~5 $end
+$var wire 1 Z Add1~6_combout $end
+$var wire 1 [ Mux0~1_combout $end
+$var wire 1 \ Mux0~0_combout $end
+$var wire 1 ] Mux0~3_combout $end
+$var wire 1 ^ Mux0~2_combout $end
+$var wire 1 _ Mux0~4_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+b111 "
+b0 #
+1'
+1&
+1%
+0$
+0*
+0)
+0(
+0+
+1,
+x-
+1.
+1/
+10
+01
+z2
+z3
+z4
+05
+06
+07
+18
+19
+1:
+0;
+0<
+0=
+0>
+1?
+0@
+1A
+0B
+1C
+1D
+1E
+0F
+1G
+0H
+0I
+1J
+1K
+1L
+1M
+1N
+0O
+1P
+0Q
+0R
+0S
+1T
+0U
+0V
+1W
+1X
+0Y
+1Z
+1[
+0\
+0]
+1^
+0_
+$end
+#50000
+b1 !
+b110 "
+1@
+0?
+0D
+1H
+1I
+#100000
+b11 !
+b100 "
+b1 #
+b10 !
+b101 "
+1F
+0@
+0G
+1?
+1<
+15
+1R
+0M
+0T
+0C
+0H
+0^
+1]
+1Q
+1B
+1*
+1U
+0I
+1_
+0X
+0:
+1;
+1V
+0K
+1$
+0%
+0L
+1X
+1:
+1%
+0N
+09
+0&
+#150000
+b11 !
+b100 "
+1@
+0?
+1H
+1I
+1K
+1L
+1N
+19
+1&
+#200000
+b111 !
+b0 "
+b11 #
+b101 !
+b10 "
+b10 #
+b100 !
+b11 "
+1O
+0F
+0@
+0P
+1G
+1?
+1=
+0<
+05
+16
+1\
+0W
+1Y
+0Q
+0[
+0R
+1M
+1T
+1D
+1C
+0H
+0B
+1^
+0]
+1)
+0*
+0_
+0;
+0^
+1]
+0Z
+0V
+0U
+0I
+0$
+0X
+0:
+0%
+#250000
+b101 !
+b10 "
+1@
+0?
+1R
+0L
+0C
+1H
+1V
+1I
+0N
+0E
+08
+09
+0&
+0'
+1X
+1:
+1%
+#300000
+b111 !
+b0 "
+b11 #
+b110 !
+b1 "
+1F
+0@
+0G
+1?
+1<
+15
+1[
+0R
+0T
+1C
+0H
+1^
+0]
+1W
+0K
+1*
+1]
+0V
+1U
+0I
+1L
+1E
+0X
+0:
+18
+1'
+0%
+1X
+1N
+19
+1:
+1%
+1&
+#350000
+b111 !
+b0 "
+1@
+0?
+1R
+0L
+0C
+1H
+1_
+1;
+1V
+1I
+1$
+0N
+0E
+08
+09
+0&
+0'
+0X
+0:
+0%
+#400000
+b111 #
+b11 !
+b100 "
+b101 #
+b1 !
+b110 "
+b100 #
+b0 !
+b111 "
+0O
+0F
+0@
+1P
+1G
+1?
+1>
+0=
+0<
+05
+06
+17
+0\
+0Y
+0[
+0R
+1T
+1C
+0H
+0^
+1K
+1(
+0)
+0*
+1X
+1N
+1E
+18
+19
+1:
+1Z
+0V
+0U
+0I
+1L
+1%
+1&
+1'
+1[
+#450000
+b1 !
+b110 "
+1@
+0?
+0D
+1H
+1I
+0E
+08
+0'
+#500000
+b11 !
+b100 "
+b101 #
+b10 !
+b101 "
+1F
+0@
+0G
+1?
+1<
+15
+1R
+0M
+0T
+0C
+0H
+1^
+0]
+1Q
+1B
+1*
+1U
+0I
+0N
+0_
+0X
+0:
+0;
+09
+1V
+0K
+0&
+0$
+0%
+0L
+#550000
+b11 !
+b100 "
+1@
+0?
+1H
+1I
+1K
+1L
+#600000
+b111 !
+b0 "
+b111 #
+b101 !
+b10 "
+b110 #
+b100 !
+b11 "
+1O
+0F
+0@
+0P
+1G
+1?
+1=
+0<
+05
+16
+1\
+0W
+1Y
+0Q
+0[
+0R
+1M
+1T
+1D
+1C
+0H
+0B
+0^
+1]
+1)
+0*
+0Z
+0V
+0U
+0I
+1X
+1N
+1E
+18
+19
+1:
+1%
+1&
+1'
+#650000
+b101 !
+b10 "
+1@
+0?
+1R
+0L
+0C
+1H
+1V
+1I
+#700000
+b111 !
+b0 "
+b111 #
+b110 !
+b1 "
+1F
+0@
+0G
+1?
+1<
+15
+1[
+0R
+0T
+1C
+0H
+1^
+0]
+1W
+0K
+1*
+0V
+1U
+0I
+1L
+#750000
+b111 !
+b0 "
+1@
+0?
+1R
+0L
+0C
+1H
+1V
+1I
+#800000
+b11 #
+b11 !
+b100 "
+b1 #
+b1 !
+b110 "
+b0 #
+b0 !
+b111 "
+0O
+0F
+0@
+1P
+1G
+1?
+0>
+0=
+0<
+05
+06
+07
+0\
+0Y
+0[
+0R
+1T
+1C
+0H
+0^
+1]
+1K
+0(
+0)
+0*
+0X
+0N
+0E
+08
+09
+0:
+0]
+1Z
+0V
+0U
+0I
+1L
+0%
+0&
+0'
+1E
+1_
+1;
+18
+1[
+1'
+1$
+0_
+1X
+1N
+19
+1:
+0;
+1^
+0$
+1%
+1&
+#850000
+b1 !
+b110 "
+1@
+0?
+0D
+1H
+1I
+#900000
+b11 !
+b100 "
+b1 #
+b10 !
+b101 "
+1F
+0@
+0G
+1?
+1<
+15
+1R
+0M
+0T
+0C
+0H
+0^
+1]
+1Q
+1B
+1*
+1U
+0I
+1_
+0X
+0:
+1;
+1V
+0K
+1$
+0%
+0L
+1X
+1:
+1%
+0N
+09
+0&
+#950000
+b11 !
+b100 "
+1@
+0?
+1H
+1I
+1K
+1L
+1N
+19
+1&
+#1000000

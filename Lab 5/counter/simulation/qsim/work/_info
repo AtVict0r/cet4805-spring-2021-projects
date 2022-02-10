@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/aatol/Dropbox (City Tech)/Repo/Max 10/CET 4805/Lab 5/counter/simulation/qsim
+vfinite_state_machine_counter
+Z1 !s110 1620086494
+!i10b 1
+!s100 N6cP5RJhTS2^cdLoz<R=30
+I?R=5anC@9EYJ=FG2Z:66f2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1620086489
+Z4 8finite_state_machine_counter.vo
+Z5 Ffinite_state_machine_counter.vo
+L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1620086494.000000
+Z8 !s107 finite_state_machine_counter.vo|
+Z9 !s90 -work|work|finite_state_machine_counter.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vfinite_state_machine_counter_vlg_vec_tst
+!s110 1620086386
+!i10b 1
+!s100 <eFEL_U1j7m:1W84O;VWg0
+IC6`VVFL:5IFR^gc`Cnb@L1
+R2
+R0
+w1620086360
+8finite_state_machine_counter.vwf.vt
+Ffinite_state_machine_counter.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+!s108 1620086386.000000
+!s107 finite_state_machine_counter.vwf.vt|
+!s90 -work|work|finite_state_machine_counter.vwf.vt|
+!i113 1
+R10
+R11
+vhard_block
+R1
+!i10b 1
+!s100 gB]6`FUQ]UZCf5_<j?[l_3
+ILdPA6@hLjMfDeOh6HH[hM2
+R2
+R0
+R3
+R4
+R5
+L0 555
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

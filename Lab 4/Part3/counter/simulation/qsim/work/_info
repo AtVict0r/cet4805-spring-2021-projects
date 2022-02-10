@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/aatol/Dropbox (City Tech)/Repo/Max 10/CET 4805/Lab 4/Part3/counter/simulation/qsim
+vcounter_up_dwn_4bit
+Z1 !s110 1619567134
+!i10b 1
+!s100 9U4b;^<iAYcHdW5lKR4Ij3
+I>JJj4Ge`LIFzWIf<ib6@51
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1619567126
+Z4 8counter_up_dwn_4bit.vo
+Z5 Fcounter_up_dwn_4bit.vo
+L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1619567133.000000
+Z8 !s107 counter_up_dwn_4bit.vo|
+Z9 !s90 -work|work|counter_up_dwn_4bit.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vcounter_up_dwn_4bit_vlg_vec_tst
+R1
+!i10b 1
+!s100 Jz>_cHVo`Y7l=8iFB3OQU3
+IIKd7SB0VdQ>eYmTK4[7A82
+R2
+R0
+w1619567116
+8counter_up_dwn_4bit.vwf.vt
+Fcounter_up_dwn_4bit.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+!s108 1619567134.000000
+!s107 counter_up_dwn_4bit.vwf.vt|
+!s90 -work|work|counter_up_dwn_4bit.vwf.vt|
+!i113 1
+R10
+R11
+vhard_block
+R1
+!i10b 1
+!s100 MCfl`4JeZCMo=XcVQTBc92
+ISG]1a;o3AIj8USZRMZX9l2
+R2
+R0
+R3
+R4
+R5
+L0 530
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

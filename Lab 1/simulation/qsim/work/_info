@@ -1,0 +1,163 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/aatol/Documents/Spring 2021/CET 4805/Max 10/Lab 1/simulation/qsim
+vhard_block
+Z1 !s110 1614099447
+!i10b 1
+!s100 FJo`Gn0EUV8cJAQQ=m8jE1
+I2C_V<KTDJdelT@gC962>F1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1614099443
+Z4 8Lab1.vo
+Z5 FLab1.vo
+L0 477
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1614099447.000000
+Z8 !s107 Lab1.vo|
+Z9 !s90 -work|work|Lab1.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vLab1_1
+!s110 1614030776
+!i10b 1
+!s100 gPG=VD^?DMoPA1L>^fmPn0
+IT_]9^X=cg_ZklinCD4<>Q1
+R2
+R0
+w1614030766
+R4
+R5
+Z12 L0 31
+R6
+r1
+!s85 0
+31
+Z13 !s108 1614030776.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@lab1_1
+vLab1_1_vlg_vec_tst
+!s110 1614030777
+!i10b 1
+!s100 72F8be?6jCI1R1EnZ9JMN0
+IKUXSS@PJQMoF2TSlB;FX?0
+R2
+R0
+w1614030760
+Z14 8Lab1_1.vwf.vt
+Z15 FLab1_1.vwf.vt
+Z16 L0 29
+R6
+r1
+!s85 0
+31
+R13
+Z17 !s107 Lab1_1.vwf.vt|
+Z18 !s90 -work|work|Lab1_1.vwf.vt|
+!i113 1
+R10
+R11
+n@lab1_1_vlg_vec_tst
+vLab1_2
+!s110 1614090074
+!i10b 1
+!s100 ik9GYN2bS<Z34;>gBkRLB0
+IiWS0hNTi34HhGHFC<ZZ7C1
+R2
+R0
+w1614090070
+R4
+R5
+R12
+R6
+r1
+!s85 0
+31
+Z19 !s108 1614090074.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@lab1_2
+vLab1_2_vlg_vec_tst
+!s110 1614090075
+!i10b 1
+!s100 Xa:UoiAg^M5_H?WP_=ZOQ1
+Ih=AlCZeSDgf?m6?A5dRdV1
+R2
+R0
+w1614090064
+R14
+R15
+R16
+R6
+r1
+!s85 0
+31
+R19
+R17
+R18
+!i113 1
+R10
+R11
+n@lab1_2_vlg_vec_tst
+vLab1_3
+R1
+!i10b 1
+!s100 PIe94^4?Z<6POH`^dK0fg2
+IgIeAP2OThB^kIj`A05e5]1
+R2
+R0
+R3
+R4
+R5
+R12
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@lab1_3
+vLab1_3_vlg_vec_tst
+!s110 1614099448
+!i10b 1
+!s100 6PJ2Q58EY?m9UEU:RLmga2
+I[00:jc;DTJ?LOoSJS0HU;2
+R2
+R0
+w1614099437
+8Lab1_3.vwf.vt
+FLab1_3.vwf.vt
+R16
+R6
+r1
+!s85 0
+31
+R7
+!s107 Lab1_3.vwf.vt|
+!s90 -work|work|Lab1_3.vwf.vt|
+!i113 1
+R10
+R11
+n@lab1_3_vlg_vec_tst

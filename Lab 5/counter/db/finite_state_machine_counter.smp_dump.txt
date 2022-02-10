@@ -1,0 +1,9 @@
+
+State Machine - |finite_state_machine_counter|fstate
+Name fstate.state2 fstate.state1 fstate.state5 fstate.state4 fstate.state3 fstate.state0 
+fstate.state0 0 0 0 0 0 0 
+fstate.state3 0 0 0 0 1 1 
+fstate.state4 0 0 0 1 0 1 
+fstate.state5 0 0 1 0 0 1 
+fstate.state1 0 1 0 0 0 1 
+fstate.state2 1 0 0 0 0 1 

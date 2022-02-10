@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/aatol/Dropbox (City Tech)/Repo/Max 10/CET 4805/Lab 5/stepper/simulation/qsim
+vhard_block
+Z1 !s110 1620266347
+!i10b 1
+!s100 =[=11Qj0I;@Lo;9Ch6ne:2
+I36T_G3;K_iKmdLJRQZ5FF1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1620266333
+Z4 8stepper_motor_driver.vo
+Z5 Fstepper_motor_driver.vo
+L0 500
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1620266346.000000
+Z8 !s107 stepper_motor_driver.vo|
+Z9 !s90 -work|work|stepper_motor_driver.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vstepper_motor_driver
+R1
+!i10b 1
+!s100 @z5z2fPl@a3W<7SYo=Khb0
+IE8^Mhg3VSDz_ZPP6kDdT]3
+R2
+R0
+R3
+R4
+R5
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vstepper_motor_driver_vlg_vec_tst
+R1
+!i10b 1
+!s100 lY4bQA]Jh=Ph3cJ4?FFOa3
+I<>azDn5ehYoC@FTO]OA0U0
+R2
+R0
+w1620266323
+8stepper_motor_driver.vwf.vt
+Fstepper_motor_driver.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+!s108 1620266347.000000
+!s107 stepper_motor_driver.vwf.vt|
+!s90 -work|work|stepper_motor_driver.vwf.vt|
+!i113 1
+R10
+R11

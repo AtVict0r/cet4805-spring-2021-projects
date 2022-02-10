@@ -1,0 +1,163 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/aatol/Documents/Spring 2021/CET 4805/Max 10/Lab 3/simulation/qsim
+vhard_block
+Z1 !s110 1618957431
+!i10b 1
+!s100 cOl1Ddf80Zgf0<X2Z=I@b0
+IK8B>k?H]E]@1dFARQLC553
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/aatol/Dropbox (City Tech)/Repo/Max 10/CET 4805/Lab 3/simulation/qsim
+Z4 w1618957425
+Z5 8Lab3.vo
+Z6 FLab3.vo
+L0 381
+Z7 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z8 !s108 1618957430.000000
+Z9 !s107 Lab3.vo|
+Z10 !s90 -work|work|Lab3.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vMUX2to1_Beha
+!s110 1615864280
+!i10b 1
+!s100 <kkED>oV8KaVD7V6a@ih93
+I<O@BQn<7k:z9LT=a>Nh[m3
+R2
+R0
+w1615864277
+R5
+R6
+Z13 L0 31
+R7
+r1
+!s85 0
+31
+!s108 1615864280.000000
+R9
+R10
+!i113 1
+R11
+R12
+n@m@u@x2to1_@beha
+vMUX2to1_Beha_vlg_vec_tst
+!s110 1618892812
+!i10b 1
+!s100 4[;WO:M5lW@]]2k<WkkVS0
+I`<MLMJM;FSgO71W4H1@XW3
+R2
+R3
+w1618892794
+8MUX2to1_Beha.vwf.vt
+FMUX2to1_Beha.vwf.vt
+Z14 L0 29
+R7
+r1
+!s85 0
+31
+!s108 1618892811.000000
+!s107 MUX2to1_Beha.vwf.vt|
+!s90 -work|work|MUX2to1_Beha.vwf.vt|
+!i113 1
+R11
+R12
+n@m@u@x2to1_@beha_vlg_vec_tst
+vMUX4to1_Beha
+!s110 1618896362
+!i10b 1
+!s100 6;c<UE?BO80>gMP4C?ehf1
+I_4PL;_>hQ`Z^dBTHzP1>e0
+R2
+R3
+w1615867205
+R5
+R6
+R13
+R7
+r1
+!s85 0
+31
+Z15 !s108 1618896362.000000
+R9
+R10
+!i113 1
+R11
+R12
+n@m@u@x4to1_@beha
+vMUX4to1_Beha_vlg_vec_tst
+!s110 1618896363
+!i10b 1
+!s100 FV35LQ9kNbYWg?3QDeSU70
+IEAB]JEmKzD^1P`LmzXbTV2
+R2
+R3
+w1618896343
+8MUX4to1_Beha.vwf.vt
+FMUX4to1_Beha.vwf.vt
+R14
+R7
+r1
+!s85 0
+31
+R15
+!s107 MUX4to1_Beha.vwf.vt|
+!s90 -work|work|MUX4to1_Beha.vwf.vt|
+!i113 1
+R11
+R12
+n@m@u@x4to1_@beha_vlg_vec_tst
+vSeg7Dec_Beha
+R1
+!i10b 1
+!s100 S[MTbGOeB`92`DTHH>@><0
+I<hJN0b9C1JD6N6A;:EMdP1
+R2
+R3
+R4
+R5
+R6
+R13
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@seg7@dec_@beha
+vSeg7Dec_Beha_vlg_vec_tst
+!s110 1618957432
+!i10b 1
+!s100 j8a9J2^kGF[8m^cQTE2bX0
+IZeM5ZNdcf2n]f5`k4Hk?h2
+R2
+R3
+w1618957415
+8Seg7Dec_Beha.vwf.vt
+FSeg7Dec_Beha.vwf.vt
+R14
+R7
+r1
+!s85 0
+31
+!s108 1618957431.000000
+!s107 Seg7Dec_Beha.vwf.vt|
+!s90 -work|work|Seg7Dec_Beha.vwf.vt|
+!i113 1
+R11
+R12
+n@seg7@dec_@beha_vlg_vec_tst

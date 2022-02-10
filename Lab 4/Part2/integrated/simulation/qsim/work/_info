@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/aatol/Dropbox (City Tech)/Repo/Max 10/CET 4805/Lab 4/Part2/integrated/simulation/qsim
+vcounter_decoder_7Seg_3bit
+Z1 !s110 1619559026
+!i10b 1
+!s100 KO9G3:mD<H>3:JcKH[7P33
+IEIHS<lI?B<oOLlJ><OD4n2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1619559017
+Z4 8counter_decoder_7Seg_3bit.vo
+Z5 Fcounter_decoder_7Seg_3bit.vo
+L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1619559025.000000
+Z8 !s107 counter_decoder_7Seg_3bit.vo|
+Z9 !s90 -work|work|counter_decoder_7Seg_3bit.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+ncounter_decoder_7@seg_3bit
+vcounter_decoder_7Seg_3bit_vlg_vec_tst
+R1
+!i10b 1
+!s100 :H0i1D4n5JURWVE1NIQdf0
+I:lN]2=VNNQlKVCbF@mA_A2
+R2
+R0
+w1619559005
+8counter_decoder_7Seg_3bit.vwf.vt
+Fcounter_decoder_7Seg_3bit.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+!s108 1619559026.000000
+!s107 counter_decoder_7Seg_3bit.vwf.vt|
+!s90 -work|work|counter_decoder_7Seg_3bit.vwf.vt|
+!i113 1
+R10
+R11
+ncounter_decoder_7@seg_3bit_vlg_vec_tst
+vhard_block
+R1
+!i10b 1
+!s100 :_<CT0WfkBYITShg[XTDc1
+I:lDR[;]iQlUQ4;DPc86`i2
+R2
+R0
+R3
+R4
+R5
+L0 597
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

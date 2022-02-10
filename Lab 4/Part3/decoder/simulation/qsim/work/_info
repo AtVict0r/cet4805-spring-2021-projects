@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/aatol/Dropbox (City Tech)/Repo/Max 10/CET 4805/Lab 4/Part3/decoder/simulation/qsim
+vdecoder_4bit_7Seg_Neg
+Z1 !s110 1619568601
+!i10b 1
+!s100 8RTZFADE4W:YC1>hccVo80
+II`mo2Wgl=9@V83d=0KOKF0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1619568594
+Z4 8decoder_4bit_7Seg_Neg.vo
+Z5 Fdecoder_4bit_7Seg_Neg.vo
+L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1619568601.000000
+Z8 !s107 decoder_4bit_7Seg_Neg.vo|
+Z9 !s90 -work|work|decoder_4bit_7Seg_Neg.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+ndecoder_4bit_7@seg_@neg
+vdecoder_4bit_7Seg_Neg_vlg_vec_tst
+!s110 1619568602
+!i10b 1
+!s100 NKIMz?T3blZ2W[2JSQo<o2
+IWcW?hT0a?6@_1hbQF6i6;2
+R2
+R0
+w1619568581
+8decoder_4bit_7Seg_Neg.vwf.vt
+Fdecoder_4bit_7Seg_Neg.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 decoder_4bit_7Seg_Neg.vwf.vt|
+!s90 -work|work|decoder_4bit_7Seg_Neg.vwf.vt|
+!i113 1
+R10
+R11
+ndecoder_4bit_7@seg_@neg_vlg_vec_tst
+vhard_block
+R1
+!i10b 1
+!s100 6i^WkBMYAeRf;kf8=E;Yb2
+IAeR<O48IGXi_ML3l90^?J2
+R2
+R0
+R3
+R4
+R5
+L0 463
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

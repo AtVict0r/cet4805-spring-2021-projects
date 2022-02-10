@@ -1,0 +1,163 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/aatol/Dropbox (City Tech)/Repo/Max 10/CET 4805/Midterm/simulation/qsim
+vALU16_Beha
+!s110 1616552905
+!i10b 1
+!s100 oJU22:hfmb<7kobA1dJTl3
+I5e<4G49PJVZUMM<R_ld2j3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1616552898
+Z2 8midterm.vo
+Z3 Fmidterm.vo
+Z4 L0 31
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1616552905.000000
+Z7 !s107 midterm.vo|
+Z8 !s90 -work|work|midterm.vo|
+!i113 1
+Z9 o-work work
+Z10 tCvgOpt 0
+n@a@l@u16_@beha
+vALU16_Beha_vlg_vec_tst
+!s110 1616552906
+!i10b 1
+!s100 e:^E5Qj]^8GikH8gHEWRZ0
+I_`_mZ<Nmf>_HNhb@Nf8@91
+R1
+R0
+w1616552886
+8ALU16_Beha.vwf.vt
+FALU16_Beha.vwf.vt
+Z11 L0 29
+R5
+r1
+!s85 0
+31
+R6
+!s107 ALU16_Beha.vwf.vt|
+!s90 -work|work|ALU16_Beha.vwf.vt|
+!i113 1
+R9
+R10
+n@a@l@u16_@beha_vlg_vec_tst
+vALU8_Beha
+Z12 !s110 1616553641
+!i10b 1
+!s100 11mXQN`VddN`@GBeUXa]A1
+IlW056REzS@V4URjlMGN8T0
+R1
+R0
+Z13 w1616553634
+R2
+R3
+R4
+R5
+r1
+!s85 0
+31
+Z14 !s108 1616553641.000000
+R7
+R8
+!i113 1
+R9
+R10
+n@a@l@u8_@beha
+vALU8_Beha_vlg_vec_tst
+!s110 1616553642
+!i10b 1
+!s100 `E3]bS8eGi[DNB]=cmXiA0
+IMD2oV:7GTR12TR>FCQ<Ub3
+R1
+R0
+w1616553623
+8ALU8_Beha.vwf.vt
+FALU8_Beha.vwf.vt
+R11
+R5
+r1
+!s85 0
+31
+R14
+!s107 ALU8_Beha.vwf.vt|
+!s90 -work|work|ALU8_Beha.vwf.vt|
+!i113 1
+R9
+R10
+n@a@l@u8_@beha_vlg_vec_tst
+vALU_Beha
+!s110 1616530772
+!i10b 1
+!s100 k21e9<D4O<3BS=0DmGS`m2
+Ij6DAN:C?a8m_e5f;gSV?S2
+R1
+R0
+w1616530760
+R2
+R3
+R4
+R5
+r1
+!s85 0
+31
+!s108 1616530771.000000
+R7
+R8
+!i113 1
+R9
+R10
+n@a@l@u_@beha
+vALU_Beha_vlg_vec_tst
+!s110 1616530773
+!i10b 1
+!s100 Igc1Z3nka1eElU8=f68Y=1
+In]KRIzPf36Qh`7VRKa`^Q0
+R1
+R0
+w1616530737
+8ALU_Beha.vwf.vt
+FALU_Beha.vwf.vt
+R11
+R5
+r1
+!s85 0
+31
+!s108 1616530773.000000
+!s107 ALU_Beha.vwf.vt|
+!s90 -work|work|ALU_Beha.vwf.vt|
+!i113 1
+R9
+R10
+n@a@l@u_@beha_vlg_vec_tst
+vhard_block
+R12
+!i10b 1
+!s100 c[e88fmgV4kTD9j2W13aL3
+I3_fONJWHbPhWBfzQITfJH1
+R1
+R0
+R13
+R2
+R3
+L0 851
+R5
+r1
+!s85 0
+31
+R14
+R7
+R8
+!i113 1
+R9
+R10

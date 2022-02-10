@@ -1,0 +1,16 @@
+|mux4_to_1
+out <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+t0 => WideAnd0.IN0
+t1 => WideAnd1.IN0
+t2 => WideAnd2.IN0
+t3 => WideAnd3.IN0
+s1 => WideAnd2.IN1
+s1 => WideAnd3.IN1
+s1 => WideAnd0.IN1
+s1 => WideAnd1.IN1
+s0 => WideAnd1.IN2
+s0 => WideAnd3.IN2
+s0 => WideAnd0.IN2
+s0 => WideAnd2.IN2
+
+

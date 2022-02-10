@@ -1,0 +1,22 @@
+module ALU_Beha (A, B, S, SEL, OUT)
+	input [2:0] A;
+	input [2:0] B;
+	input [2:0] S;
+
+	output [2:0] SEL;
+	output reg [5:0} OUT;
+
+	always @ (S) begin
+		case (S)
+			0: M = A + B; // add
+			1: M = A - B; // subtract
+			2: M = A - 1; // decrement A
+			3: M = A + 1; // increment A
+			4: M = not A; // 1's complement of A
+			5: M = A and B; // bitwise AND
+			6: M = A or B; // bitwise OR
+			7: M = A xor B; // bitwise XOR
+			default: M = 2'bx;
+		endcase
+	end
+endmodule

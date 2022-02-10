@@ -1,0 +1,14 @@
+module MUX2to1_Beha (A, B, S, ledS, M);
+	input [3:0] X, [7:4] Y, S;
+	output ledS;
+	output reg [3:0] M;
+	
+	assign ledS = S;
+	
+	always @ (S) begin
+		if (S == 0)
+			M = X;
+		else
+			M = Y;
+	end
+endmodule

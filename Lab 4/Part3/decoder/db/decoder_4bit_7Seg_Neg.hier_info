@@ -1,0 +1,14 @@
+|decoder_4bit_7Seg_Neg
+DIG[0] => Decoder0.IN3
+DIG[1] => Decoder0.IN2
+DIG[2] => Decoder0.IN1
+DIG[3] => Decoder0.IN0
+Seg7[0] <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+Seg7[1] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+Seg7[2] <= WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+Seg7[3] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+Seg7[4] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+Seg7[5] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+Seg7[6] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,59 @@
+|counter_decoder_7Seg_4bit
+Seg7[0] <= decoder_4bit_7Seg_Neg:inst.Seg7[0]
+Seg7[1] <= decoder_4bit_7Seg_Neg:inst.Seg7[1]
+Seg7[2] <= decoder_4bit_7Seg_Neg:inst.Seg7[2]
+Seg7[3] <= decoder_4bit_7Seg_Neg:inst.Seg7[3]
+Seg7[4] <= decoder_4bit_7Seg_Neg:inst.Seg7[4]
+Seg7[5] <= decoder_4bit_7Seg_Neg:inst.Seg7[5]
+Seg7[6] <= decoder_4bit_7Seg_Neg:inst.Seg7[6]
+clock => counter_up_dwn_4bit:inst2.clock
+enable => counter_up_dwn_4bit:inst2.enable
+reset => counter_up_dwn_4bit:inst2.reset
+up_down => counter_up_dwn_4bit:inst2.up_down
+
+
+|counter_decoder_7Seg_4bit|decoder_4bit_7Seg_Neg:inst
+DIG[0] => Decoder0.IN3
+DIG[1] => Decoder0.IN2
+DIG[2] => Decoder0.IN1
+DIG[3] => Decoder0.IN0
+Seg7[0] <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+Seg7[1] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+Seg7[2] <= WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+Seg7[3] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+Seg7[4] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+Seg7[5] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+Seg7[6] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|counter_decoder_7Seg_4bit|counter_up_dwn_4bit:inst2
+clock => Q[0]~reg0.CLK
+clock => Q[1]~reg0.CLK
+clock => Q[2]~reg0.CLK
+clock => Q[3]~reg0.CLK
+enable => Q.OUTPUTSELECT
+enable => Q.OUTPUTSELECT
+enable => Q.OUTPUTSELECT
+enable => Q.OUTPUTSELECT
+enable => Q.OUTPUTSELECT
+enable => Q.OUTPUTSELECT
+enable => Q.OUTPUTSELECT
+enable => Q.OUTPUTSELECT
+reset => Q.OUTPUTSELECT
+reset => Q.OUTPUTSELECT
+reset => Q.OUTPUTSELECT
+reset => Q.OUTPUTSELECT
+reset => Q.OUTPUTSELECT
+reset => Q.OUTPUTSELECT
+reset => Q.OUTPUTSELECT
+reset => Q.OUTPUTSELECT
+up_down => Q.OUTPUTSELECT
+up_down => Q.OUTPUTSELECT
+up_down => Q.OUTPUTSELECT
+up_down => Q.OUTPUTSELECT
+Q[0] <= Q[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Q[1] <= Q[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Q[2] <= Q[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Q[3] <= Q[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

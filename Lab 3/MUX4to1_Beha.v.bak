@@ -1,0 +1,19 @@
+module MUX4to1_Beha (X, Y, S, ledS, M);
+	input [1:0] U;
+	input [1:0] V;
+	input [1:0] W;
+	input [1:0] X;
+   input [1:0] S;
+	
+	output ledS0, ledS1;
+	output reg [1:0] M;
+	
+	assign ledS = S;
+	
+	always @ (S) begin
+		if (S == 0)
+			M = X;
+		else
+			M = Y;
+	end
+endmodule

@@ -1,0 +1,20 @@
+module counter_up_dwn_4bit (clock, enable, reset, up_down, Q);
+	output reg [3:0] Q;
+	input clock, enable, reset, up_down;
+	
+	
+	always @(posedge clock)	begin
+		if(up_down) //up counter
+			if (reset)
+				Q <= 0;
+			else
+				if (enable)
+					Q <= Q + 1;
+		else //down counter
+			if (reset)
+				Q <= 15;
+			else
+				if (enable)
+					Q <= Q - 1;
+	end
+endmodule

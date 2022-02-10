@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/aatol/Dropbox (City Tech)/Repo/Max 10/CET 4805/Lab 4/Part4/flipflop/simulation/qsim
+vhard_block
+Z1 !s110 1619639466
+!i10b 1
+!s100 A2T<ZObbDLm>z^i=YLZA[2
+Ih@Q:?dn;fEFT=JEAMEiBb0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1619639461
+Z4 8T_Flip_Flop.vo
+Z5 FT_Flip_Flop.vo
+L0 247
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1619639466.000000
+Z8 !s107 T_Flip_Flop.vo|
+Z9 !s90 -work|work|T_Flip_Flop.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vT_Flip_Flop
+R1
+!i10b 1
+!s100 l1=O5cKcSz5F`PEFlnm7B1
+IVXYD>2L9[YF[ZhiW@b7A<0
+R2
+R0
+R3
+R4
+R5
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@t_@flip_@flop
+vT_Flip_Flop_vlg_vec_tst
+!s110 1619639467
+!i10b 1
+!s100 ;Tifdi8T^dO6@b4z6A<6b2
+I^_^?<aI<3N<<fEmR`LVgX0
+R2
+R0
+w1619639451
+8T_Flip_Flop.vwf.vt
+FT_Flip_Flop.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 T_Flip_Flop.vwf.vt|
+!s90 -work|work|T_Flip_Flop.vwf.vt|
+!i113 1
+R10
+R11
+n@t_@flip_@flop_vlg_vec_tst

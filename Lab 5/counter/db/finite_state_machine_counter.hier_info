@@ -1,0 +1,31 @@
+|finite_state_machine_counter
+reset => reg_fstate.state2.OUTPUTSELECT
+reset => reg_fstate.state3.OUTPUTSELECT
+reset => reg_fstate.state4.OUTPUTSELECT
+reset => reg_fstate.state5.OUTPUTSELECT
+reset => reg_fstate.state1.OUTPUTSELECT
+reset => reg_fstate.state0.OUTPUTSELECT
+reset => reg_Q[2].OUTPUTSELECT
+reset => reg_Q[1].OUTPUTSELECT
+reset => reg_Q[0].OUTPUTSELECT
+reset => Q.OUTPUTSELECT
+reset => Q.OUTPUTSELECT
+reset => Q.OUTPUTSELECT
+clock => fstate~1.DATAIN
+dir => Selector1.IN4
+dir => Selector2.IN4
+dir => Selector3.IN4
+dir => Selector5.IN4
+dir => Selector0.IN4
+dir => Selector4.IN4
+dir => Selector0.IN2
+dir => Selector1.IN2
+dir => Selector2.IN2
+dir => Selector3.IN2
+dir => Selector4.IN2
+dir => Selector5.IN2
+Q[0] << Q.DB_MAX_OUTPUT_PORT_TYPE
+Q[1] << Q.DB_MAX_OUTPUT_PORT_TYPE
+Q[2] << Q.DB_MAX_OUTPUT_PORT_TYPE
+
+

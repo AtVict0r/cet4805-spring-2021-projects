@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/aatol/Documents/Spring 2021/CET 4805/Max 10/Lab 2/simulation/qsim
+vdec2_to_4
+Z1 !s110 1614714073
+!i10b 1
+!s100 O42Pl[QG7P^TXai9i^dDU0
+IMi2e9HHif3MnzS]i0FlnP0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1614714069
+Z3 8Lab2.vo
+Z4 FLab2.vo
+Z5 L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1614714073.000000
+Z8 !s107 Lab2.vo|
+Z9 !s90 -work|work|Lab2.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vdec2_to_4_vlg_vec_tst
+R1
+!i10b 1
+!s100 ReBnQ[UAB<h0fE:hzC:9F2
+IcHcLM<5j@[CE7eLXE0OYg2
+R2
+R0
+w1614714062
+8dec2_to_4.vwf.vt
+Fdec2_to_4.vwf.vt
+Z12 L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 dec2_to_4.vwf.vt|
+!s90 -work|work|dec2_to_4.vwf.vt|
+!i113 1
+R10
+R11
+vhard_block
+Z13 !s110 1614718958
+!i10b 1
+!s100 BBd6ALLAON=ReWPh_4B0<3
+IiQH9Ci0aMGE0TFSFSze7i3
+R2
+R0
+Z14 w1614718953
+R3
+R4
+L0 309
+R6
+r1
+!s85 0
+31
+Z15 !s108 1614718957.000000
+R8
+R9
+!i113 1
+R10
+R11
+vmux2_to_1
+Z16 !s110 1614698728
+!i10b 1
+!s100 _fOEJj:zF8M^]^Xk1MPJT0
+IF5W<:`<LC15iMjFddS?io3
+R2
+R0
+w1614698717
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+!s108 1614698727.000000
+R8
+R9
+!i113 1
+R10
+R11
+vmux2_to_1_vlg_vec_tst
+R16
+!i10b 1
+!s100 c^[9cGFOFA>WM8fa`00A>1
+I>AFFJ^8l3J@PkIYhE;W1E3
+R2
+R0
+w1614698710
+8mux2_to_1.vwf.vt
+Fmux2_to_1.vwf.vt
+R12
+R6
+r1
+!s85 0
+31
+!s108 1614698728.000000
+!s107 mux2_to_1.vwf.vt|
+!s90 -work|work|mux2_to_1.vwf.vt|
+!i113 1
+R10
+R11
+vmux4_to_1
+R13
+!i10b 1
+!s100 a:Jkc1kYWPfB`;6LKdHVe3
+IP:@Qaz;1n3;R1g^[=WBmT0
+R2
+R0
+R14
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+R15
+R8
+R9
+!i113 1
+R10
+R11
+vmux4_to_1_vlg_vec_tst
+R13
+!i10b 1
+!s100 o]OA=?Zn4YiAD@joHV7U61
+I59TL]HPH5inz6LaAd1FZ01
+R2
+R0
+w1614718940
+8mux4_to_1.vwf.vt
+Fmux4_to_1.vwf.vt
+R12
+R6
+r1
+!s85 0
+31
+!s108 1614718958.000000
+!s107 mux4_to_1.vwf.vt|
+!s90 -work|work|mux4_to_1.vwf.vt|
+!i113 1
+R10
+R11

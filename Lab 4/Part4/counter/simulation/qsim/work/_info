@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/aatol/Dropbox (City Tech)/Repo/Max 10/CET 4805/Lab 4/Part4/counter/simulation/qsim
+vbinary_ripple_counter_4bit
+Z1 !s110 1619652613
+!i10b 1
+!s100 mmY<g2jn:mP:Lo^ZHRkBT0
+IhTbfC_kOeV`GBULZE^@TC2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1619652607
+Z4 8binary_ripple_counter_4bit.vo
+Z5 Fbinary_ripple_counter_4bit.vo
+L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1619652612.000000
+Z8 !s107 binary_ripple_counter_4bit.vo|
+Z9 !s90 -work|work|binary_ripple_counter_4bit.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vbinary_ripple_counter_4bit_vlg_vec_tst
+R1
+!i10b 1
+!s100 =T[DP`<fE[nL:T;E@cni_0
+Icz_HXnb86g26XN5Zd6UKP0
+R2
+R0
+w1619652597
+8binary_ripple_counter_4bit.vwf.vt
+Fbinary_ripple_counter_4bit.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+!s108 1619652613.000000
+!s107 binary_ripple_counter_4bit.vwf.vt|
+!s90 -work|work|binary_ripple_counter_4bit.vwf.vt|
+!i113 1
+R10
+R11
+vhard_block
+R1
+!i10b 1
+!s100 n`ZZoQTm^eMe2EUO9<WlG1
+I;jP]`L@628NbnOZ0^>z^g0
+R2
+R0
+R3
+R4
+R5
+L0 466
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

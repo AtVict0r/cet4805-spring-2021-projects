@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/aatol/Dropbox (City Tech)/Repo/Max 10/CET 4805/Lab 4/Part1/simulation/qsim
+vcounter_3bit
+Z1 !s110 1619547008
+!i10b 1
+!s100 ;2N[;;BUJX:7]?nE>JEb72
+I:h2i619U6RCPMU@HDmT=j2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1619546999
+Z4 8counter_3bit.vo
+Z5 Fcounter_3bit.vo
+L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1619547008.000000
+Z8 !s107 counter_3bit.vo|
+Z9 !s90 -work|work|counter_3bit.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vcounter_3bit_vlg_vec_tst
+!s110 1619547009
+!i10b 1
+!s100 hXb<zf0X`TDz^MLY9Ik1f2
+IJeH]YWJ6gz`l81bcYj5j31
+R2
+R0
+w1619546983
+8counter_3bit.vwf.vt
+Fcounter_3bit.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+!s108 1619547009.000000
+!s107 counter_3bit.vwf.vt|
+!s90 -work|work|counter_3bit.vwf.vt|
+!i113 1
+R10
+R11
+vhard_block
+R1
+!i10b 1
+!s100 hZ9RgWDWFz7c<5cL]61`Q2
+IReezQbfbfXaK<5=dAK:n^3
+R2
+R0
+R3
+R4
+R5
+L0 405
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

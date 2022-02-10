@@ -1,0 +1,180 @@
+$comment
+	File created using the following command:
+		vcd file decoder_3bit_7Seg_Neg.msim.vcd -direction
+$end
+$date
+	Tue Apr 27 16:50:21 2021
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module decoder_3bit_7Seg_Neg_vlg_vec_tst $end
+$var reg 3 ! DIG [2:0] $end
+$var wire 1 " Seg7 [6] $end
+$var wire 1 # Seg7 [5] $end
+$var wire 1 $ Seg7 [4] $end
+$var wire 1 % Seg7 [3] $end
+$var wire 1 & Seg7 [2] $end
+$var wire 1 ' Seg7 [1] $end
+$var wire 1 ( Seg7 [0] $end
+
+$scope module i1 $end
+$var wire 1 ) gnd $end
+$var wire 1 * vcc $end
+$var wire 1 + unknown $end
+$var tri1 1 , devclrn $end
+$var tri1 1 - devpor $end
+$var tri1 1 . devoe $end
+$var wire 1 / ~QUARTUS_CREATED_GND~I_combout $end
+$var wire 1 0 ~QUARTUS_CREATED_UNVM~~busy $end
+$var wire 1 1 ~QUARTUS_CREATED_ADC1~~eoc $end
+$var wire 1 2 ~QUARTUS_CREATED_ADC2~~eoc $end
+$var wire 1 3 Seg7[0]~output_o $end
+$var wire 1 4 Seg7[1]~output_o $end
+$var wire 1 5 Seg7[2]~output_o $end
+$var wire 1 6 Seg7[3]~output_o $end
+$var wire 1 7 Seg7[4]~output_o $end
+$var wire 1 8 Seg7[5]~output_o $end
+$var wire 1 9 Seg7[6]~output_o $end
+$var wire 1 : DIG[1]~input_o $end
+$var wire 1 ; DIG[0]~input_o $end
+$var wire 1 < DIG[2]~input_o $end
+$var wire 1 = Decoder1~0_combout $end
+$var wire 1 > WideOr2~0_combout $end
+$var wire 1 ? Seg7~0_combout $end
+$var wire 1 @ Seg7~1_combout $end
+$var wire 1 A WideOr1~0_combout $end
+$var wire 1 B WideOr0~0_combout $end
+$var wire 1 C Decoder1~1_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+0(
+0'
+0&
+0%
+0$
+0#
+1"
+0)
+1*
+x+
+1,
+1-
+1.
+0/
+z0
+z1
+z2
+03
+04
+05
+06
+07
+08
+19
+0:
+0;
+0<
+0=
+1>
+0?
+1@
+1A
+1B
+1C
+$end
+#125000
+b1 !
+1;
+0B
+0A
+0@
+1=
+13
+16
+17
+18
+1#
+1$
+1%
+1(
+#250000
+b11 !
+b10 !
+1:
+0;
+1A
+1@
+0C
+1?
+0=
+03
+15
+09
+06
+07
+0$
+0%
+0"
+1&
+0(
+#375000
+b11 !
+1;
+0A
+0?
+05
+17
+1$
+0&
+#500000
+b111 !
+b101 !
+b100 !
+1<
+0:
+0;
+1B
+1A
+0@
+16
+07
+08
+0#
+0$
+1%
+#625000
+b101 !
+1;
+0A
+1@
+0>
+14
+06
+17
+1$
+0%
+1'
+#750000
+b111 !
+b110 !
+1:
+0;
+1A
+07
+0$
+#875000
+b111 !
+1;
+1?
+15
+1&
+#1000000
